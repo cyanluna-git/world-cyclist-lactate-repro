@@ -1,6 +1,6 @@
 # Synthetic evaluation artifacts and frozen models
 
-Supplementary data for the manuscript on lactate-state estimation from cycling cardiopulmonary exercise tests (Park and Park, submitted to *Frontiers in Physiology*).
+Supplementary data for the manuscript by Park and Park on lactate-state estimation from cycling cardiopulmonary exercise tests.
 
 This repository holds the stored outputs of the synthetic final evaluation and the 21 frozen model files evaluated in the paper. It does not contain training or evaluation code, the synthetic-data generator, or any human participant data. Models estimate a synthetic generator lactate state, not clinical blood lactate.
 
