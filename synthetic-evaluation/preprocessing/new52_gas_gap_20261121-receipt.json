@@ -1,0 +1,16 @@
+{
+  "models_checked": 9,
+  "rows": 32502,
+  "current": 31270,
+  "strict": 11630,
+  "direct_historical_rowkey_fields": {
+    "HGB": [],
+    "MLP": []
+  },
+  "absent_rowkey_reference_is_not_verified": true,
+  "case_id": "new52_gas_gap_20261121",
+  "current_fp": "535a077717ffcb6899246ad3963e93e58c73fd64e077f3dd577bff762583818e",
+  "strict_fp": "68aacc17f8c3549f2122ef150201ae72a4966e9193c48bb1ba497112c7a5f53e",
+  "cutoff_fp": "0aa588140db38f4856cc32ce587632f4a80dffcc99e92c3164975afcccccc32f",
+  "weights_fp": "0f5d37a8b89a60cdc575bdd0b413bca6941b4c30bb880e0d3d0fc0d2ee8eaf25"
+}

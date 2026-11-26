@@ -1,0 +1,149 @@
+[
+  {
+    "architecture": "GRU",
+    "condition": "BASE",
+    "seed": 0,
+    "path": "checkpoints/GRU/BASE/0.pt",
+    "sha256": "ef7e7c3080d15290dee469f5fea69af30eede10fd76a56c00da4691615a5bebe"
+  },
+  {
+    "architecture": "GRU",
+    "condition": "BASE",
+    "seed": 1,
+    "path": "checkpoints/GRU/BASE/1.pt",
+    "sha256": "cb0ea0c7def08e3dcb8f350c0ec007a4ecabfff082bf15714867443a7d99a08c"
+  },
+  {
+    "architecture": "GRU",
+    "condition": "COPY10",
+    "seed": 0,
+    "path": "checkpoints/GRU/COPY10/0.pt",
+    "sha256": "b3ff546c1d19983f349fc172006c3d6af6dff44d86696603db92f03dd155e10d"
+  },
+  {
+    "architecture": "GRU",
+    "condition": "COPY10",
+    "seed": 1,
+    "path": "checkpoints/GRU/COPY10/1.pt",
+    "sha256": "129c58a39147b442126c5ffed145999d8bfd553bfff4b4f71ce5a9110177e8db"
+  },
+  {
+    "architecture": "GRU",
+    "condition": "RECOV10",
+    "seed": 0,
+    "path": "checkpoints/GRU/RECOV10/0.pt",
+    "sha256": "00ce23c7a26dbfa60d7d071e61230dcc0207c9e42235402637eb01c92359406c"
+  },
+  {
+    "architecture": "GRU",
+    "condition": "RECOV10",
+    "seed": 1,
+    "path": "checkpoints/GRU/RECOV10/1.pt",
+    "sha256": "bf30475a95ca8e51955e9f923de66b0ba61700a51c4f41d13abf050b82782e13"
+  },
+  {
+    "architecture": "HGB",
+    "condition": "BASE",
+    "seed": null,
+    "path": "checkpoints/HGB/BASE/single.joblib",
+    "sha256": "db611f4ceb003d086b698d0ffd4b5f1bb239f658f185d0d59e8082e73d21683f"
+  },
+  {
+    "architecture": "HGB",
+    "condition": "COPY10",
+    "seed": null,
+    "path": "checkpoints/HGB/COPY10/single.joblib",
+    "sha256": "91f098118111ec4d2179fe27243ee48214ce6530789b268e0a9e47d8b27b8737"
+  },
+  {
+    "architecture": "HGB",
+    "condition": "RECOV10",
+    "seed": null,
+    "path": "checkpoints/HGB/RECOV10/single.joblib",
+    "sha256": "d22c594f2fb7df911109306607190b47d870bd24d4332bf4ef47e7d982aaab6c"
+  },
+  {
+    "architecture": "MLP",
+    "condition": "BASE",
+    "seed": 0,
+    "path": "checkpoints/MLP/BASE/0.pt",
+    "sha256": "65a2cbb8dc1fd826e713b42dbcd6758c6f274d54130080a2e81693ea707156d8"
+  },
+  {
+    "architecture": "MLP",
+    "condition": "BASE",
+    "seed": 1,
+    "path": "checkpoints/MLP/BASE/1.pt",
+    "sha256": "23cd93d6688a78ec98e126d30e50c765ca82bb2ca4f2e773829c32ac167cb8a6"
+  },
+  {
+    "architecture": "MLP",
+    "condition": "COPY10",
+    "seed": 0,
+    "path": "checkpoints/MLP/COPY10/0.pt",
+    "sha256": "0b503334509500204e5530d8712945c6a87190a20b898c7b7228319b92d27e8b"
+  },
+  {
+    "architecture": "MLP",
+    "condition": "COPY10",
+    "seed": 1,
+    "path": "checkpoints/MLP/COPY10/1.pt",
+    "sha256": "78edee36cd25ef22a96979fe4fe9632e40de46bffb521a0b659e5e582296a1c5"
+  },
+  {
+    "architecture": "MLP",
+    "condition": "RECOV10",
+    "seed": 0,
+    "path": "checkpoints/MLP/RECOV10/0.pt",
+    "sha256": "59823637862773fbafca60f707de5de83c6cd45a59061bed1751521bb94cf161"
+  },
+  {
+    "architecture": "MLP",
+    "condition": "RECOV10",
+    "seed": 1,
+    "path": "checkpoints/MLP/RECOV10/1.pt",
+    "sha256": "88ee72405abce8f559e7dd6b08f32c5b5948ca7685bd4ccf6c9c03f0c4172d7d"
+  },
+  {
+    "architecture": "causal_TCN",
+    "condition": "BASE",
+    "seed": 0,
+    "path": "checkpoints/causal_TCN/BASE/0.pt",
+    "sha256": "896e384ce85623b41f01d4b384712ecc3c51476e04b9d307571d1872d007d288"
+  },
+  {
+    "architecture": "causal_TCN",
+    "condition": "BASE",
+    "seed": 1,
+    "path": "checkpoints/causal_TCN/BASE/1.pt",
+    "sha256": "deff7cfc32dde522c697d0a0cd1b6dac3306f797e95ae53edb2989dad1235b88"
+  },
+  {
+    "architecture": "causal_TCN",
+    "condition": "COPY10",
+    "seed": 0,
+    "path": "checkpoints/causal_TCN/COPY10/0.pt",
+    "sha256": "21c1c4005134ed769d8c0b772dbd4b625694b889d12964701512670012db9fa5"
+  },
+  {
+    "architecture": "causal_TCN",
+    "condition": "COPY10",
+    "seed": 1,
+    "path": "checkpoints/causal_TCN/COPY10/1.pt",
+    "sha256": "7cceb3bea706895db69c97430baf9e32f63bf3fcc2f4fcbcbf08ff0a6d0d7a86"
+  },
+  {
+    "architecture": "causal_TCN",
+    "condition": "RECOV10",
+    "seed": 0,
+    "path": "checkpoints/causal_TCN/RECOV10/0.pt",
+    "sha256": "4bfb1caf1ff5caf41dd6bf121f0c261e7b85b904b6e0f7885b32516b47affbca"
+  },
+  {
+    "architecture": "causal_TCN",
+    "condition": "RECOV10",
+    "seed": 1,
+    "path": "checkpoints/causal_TCN/RECOV10/1.pt",
+    "sha256": "f499d143a0653b91b32c7ce4de20cbe7ebee38c82fdc75d12b5b512d8f937273"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "models_checked": 9,
+  "rows": 32502,
+  "current": 28352,
+  "strict": 10508,
+  "direct_historical_rowkey_fields": {
+    "HGB": [],
+    "MLP": []
+  },
+  "absent_rowkey_reference_is_not_verified": true,
+  "case_id": "new52_delayed_20261121",
+  "current_fp": "a5c9e42655e8c2017dc49c49aeae2383920283b1d2e30261269b7d313feed08c",
+  "strict_fp": "d7a2fbb32d8eed28c67cdd6fe3a355fbcd63f9eed14a8a7fb077d6c13aa3b612",
+  "cutoff_fp": "0aa588140db38f4856cc32ce587632f4a80dffcc99e92c3164975afcccccc32f",
+  "weights_fp": "159befeca550902a1087a6d59244aad1e2d768e2facf0154e45e2acd51e786ba"
+}

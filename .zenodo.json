@@ -1,0 +1,11 @@
+{
+  "title": "Synthetic evaluation artifacts and frozen models for cycling lactate-state estimation",
+  "upload_type": "dataset",
+  "description": "Stored outputs of the synthetic final evaluation (8 cases, 168 prediction units, summary tables, hash manifest) and the 21 frozen model files evaluated in the accompanying manuscript. Contains no human participant data, training or evaluation code, or data generator.",
+  "creators": [
+    {"name": "Park, Geunyun", "affiliation": "aSSIST University, Seoul, Republic of Korea"},
+    {"name": "Park, Youngdoo", "affiliation": "Department of Biomedical Engineering, College of Medicine, Korea University, Seoul, Republic of Korea"}
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open"
+}

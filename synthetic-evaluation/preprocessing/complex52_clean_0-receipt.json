@@ -1,0 +1,16 @@
+{
+  "models_checked": 9,
+  "rows": 48026,
+  "current": 48026,
+  "strict": 48026,
+  "direct_historical_rowkey_fields": {
+    "HGB": [],
+    "MLP": []
+  },
+  "absent_rowkey_reference_is_not_verified": true,
+  "case_id": "complex52_clean_0",
+  "current_fp": "6147fd6c6b1ff9b08e86b7230f77c075648693ee3d3fc1e3411414c631a01158",
+  "strict_fp": "6147fd6c6b1ff9b08e86b7230f77c075648693ee3d3fc1e3411414c631a01158",
+  "cutoff_fp": "092d9eaee7d75cce0d9192bc4512798bcaca24473c59fc1c30f94beb3ebbd785",
+  "weights_fp": "aa5f27252e1f4bd6c88502a89ad30facaa988c6a640df89e2d1cc5ac9f11883d"
+}

@@ -1,0 +1,16 @@
+{
+  "models_checked": 9,
+  "rows": 74399,
+  "current": 62319,
+  "strict": 14239,
+  "direct_historical_rowkey_fields": {
+    "HGB": [],
+    "MLP": []
+  },
+  "absent_rowkey_reference_is_not_verified": true,
+  "case_id": "novel52_delayed_20261122",
+  "current_fp": "7c110c6147ffdda0dcb79f8dff4ff782f1a05cf75424efd99eff0e0f73a7f503",
+  "strict_fp": "35d3236fe3d0c9c5947cf4a9cf45c80123b6ce90b34ce479e13c3d1ebb2cedc6",
+  "cutoff_fp": "24767fba7d0b34d3f266407c4bcd73dfc40b28105e6c2c8f6524158be0699caa",
+  "weights_fp": "3636d6e9c3e52e0aca7226fda58d43cf85608324998464204fd97da1638f5329"
+}

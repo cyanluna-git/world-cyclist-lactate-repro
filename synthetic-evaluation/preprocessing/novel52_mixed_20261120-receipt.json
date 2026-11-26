@@ -1,0 +1,16 @@
+{
+  "models_checked": 9,
+  "rows": 74399,
+  "current": 66963,
+  "strict": 8162,
+  "direct_historical_rowkey_fields": {
+    "HGB": [],
+    "MLP": []
+  },
+  "absent_rowkey_reference_is_not_verified": true,
+  "case_id": "novel52_mixed_20261120",
+  "current_fp": "bb180303ad81841a28b479e3d1d6c9a3d542ac639a2a2e2aab6368f5019968f3",
+  "strict_fp": "db03098c9fc6dcd537b1d3ea692da1ede221e499f04a38b1f2cda797e7c10f96",
+  "cutoff_fp": "24767fba7d0b34d3f266407c4bcd73dfc40b28105e6c2c8f6524158be0699caa",
+  "weights_fp": "61d576e4a2dac596d4ee709b6fa07b8e0a9d56dd5036391ce0da945b4bf6c058"
+}

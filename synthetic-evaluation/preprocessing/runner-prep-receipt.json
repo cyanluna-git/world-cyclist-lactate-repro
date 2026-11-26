@@ -1,0 +1,37 @@
+{
+  "status": "COMPLETED",
+  "physical_caps": {
+    "gru_selection": 83520,
+    "gru_evaluation": 92244,
+    "gru_independent": 0
+  },
+  "config_sha256": "32d7978e329365e07a80ff4988a9133f605c6b51a626bfe608c409168aeb7386",
+  "scientific_fits": 0,
+  "source_hashes": {
+    "<local>/.hermes/profiles/kepler/cache/scratch/timeseries-compare-v64-wt/experiments/timeseries_compare_20261110/runner.py": "06afcc457ad6a50a29a3aa0ac0c08817d8d649a84a64504cb6cc30572f32e32a",
+    "<local>/.hermes/profiles/kepler/cache/scratch/timeseries-compare-v64-wt/experiments/timeseries_compare_20261110/neural_models.py": "dc06b88b6b1216d3feceb00a15078dac1a3764524a107300def616ead4bce401",
+    "<local>/.hermes/profiles/kepler/cache/scratch/timeseries-compare-v64-wt/experiments/timeseries_compare_20261110/fit_policy.py": "1a91805da9536d9ad8585885ea93314b4ed77ae1f26d3279f319aed2f032f743",
+    "<local>/.hermes/profiles/kepler/cache/scratch/timeseries-compare-v64-wt/experiments/timeseries_compare_20261110/legacy/campaign.py": "d27427ac28e70022b3ecbee93021d8bc246fb7453ee907dcdc94015c0ac7ba0c",
+    "<local>/.hermes/profiles/kepler/cache/scratch/timeseries-compare-v64-wt/experiments/timeseries_compare_20261110/legacy/campaign_pre.py": "d3f0b718becdac2682cec013ab608207d6e5c79a9a231f786902822979a37f86",
+    "<local>/.hermes/profiles/kepler/cache/scratch/timeseries-compare-v64-wt/experiments/timeseries_compare_20261110/legacy/gru_pre.py": "73673602307ca6b92ce4a981f15d3050983f07969f6d5d118ecc55d84a13e895",
+    "<local>/.hermes/profiles/kepler/cache/scratch/timeseries-compare-v64-wt/experiments/timeseries_compare_20261110/legacy/gru_v3_policy.py": "4ffa7ba4a8bb5b9bb0b151864ffa160b72a54055fd4e81340e2f4afcb2e7698a",
+    "<local>/.hermes/profiles/kepler/cache/scratch/timeseries-compare-v64-wt/experiments/timeseries_compare_20261110/legacy/recovery.py": "4e594fcc8564bae911dddcd7ae70c3a0011207c368b624eb490bafe04b8cdd90",
+    "<local>/.hermes/profiles/kepler/cache/scratch/timeseries-compare-v64-wt/experiments/timeseries_compare_20261110/legacy/recovery_cli.py": "21b91bf3766cdc7ec81024c5bc454288d7d9f080c0c2919796ba6eb9ccae37cf",
+    "<local>/.hermes/profiles/kepler/cache/scratch/timeseries-compare-v64-wt/experiments/timeseries_compare_20261110/legacy/source_experiment.py": "02c93a9faa998681b78946d277e13209aa3723cdbc23f6a39df54dc5441160c0",
+    "<local>/.hermes/profiles/kepler/cache/scratch/timeseries-compare-v64-wt/experiments/timeseries_compare_20261110/legacy/source_features.py": "b172ce40cb3de9bb4d9b1844643ca2b580ec56aa12a643420bbf5ba87dd828f6",
+    "<local>/.hermes/profiles/kepler/cache/scratch/timeseries-compare-v64-wt/experiments/timeseries_compare_20261110/legacy/source_metrics_helper.py": "47eeeaceb85f4315c0275b735a4b6d13555aa84d1456fdae6483cf04319b39b9",
+    "<local>/.hermes/profiles/kepler/cache/scratch/timeseries-compare-v64-wt/experiments/timeseries_compare_20261110/legacy/source_scenarios.py": "91b87bc53ef2038af7e2078a11ea473cca9bd890e14ece1f9cf24c13581941d8",
+    "<local>/.hermes/profiles/kepler/cache/scratch/timeseries-compare-v64-wt/experiments/timeseries_compare_20261110/legacy/v3_call_ledger.py": "833b4a883f493b58efce9e9f9a5d3bcb447f24cfa7db2e8af419f1ee9039e84f",
+    "<local>/.hermes/profiles/kepler/cache/scratch/timeseries-compare-v64-wt/experiments/timeseries_compare_20261110/legacy/v3_counted_inference.py": "9cfaecf3047e0312445f1660d6ac0c561555ce0387ed73b0881f415afbf6e817",
+    "<local>/.hermes/profiles/kepler/cache/scratch/timeseries-compare-v64-wt/experiments/timeseries_compare_20261110/legacy/v3_loader.py": "52d92297f87109ef2a79d767de2e4db49d37aa0302537acb50312d1578219a84",
+    "<local>/.hermes/profiles/kepler/cache/scratch/timeseries-compare-v64-wt/experiments/timeseries_compare_20261110/legacy/v3_metrics.py": "50746ec939f7b9d5347141f5d891f8278a057661d63a82c11863f0c05df72b4c",
+    "<local>/.hermes/profiles/kepler/cache/scratch/timeseries-compare-v64-wt/experiments/timeseries_compare_20261110/legacy/v3_rows.py": "fc33703b7743a71ec7eafcf264d33968f85fac916d2bf55ecb6b34e97052bf00",
+    "<local>/.hermes/profiles/kepler/cache/scratch/timeseries-compare-v64-wt/experiments/timeseries_compare_20261110/legacy/v3_select.py": "371a5c165422b80dc6fdaf8644edc19e353ba4bc48cac8b52579d02c0ff3c4c7",
+    "<local>/.hermes/profiles/kepler/cache/scratch/timeseries-compare-v64-wt/experiments/timeseries_compare_20261110/legacy/v3_train.py": "0358c4e7c68599b572cc9482b6ff7c9f341de2aa3e898be9ee9e8eb74719cbab",
+    "<local>/.hermes/profiles/kepler/cache/scratch/timeseries-compare-v64-wt/experiments/timeseries_compare_20261110/legacy/v61_eval_report.py": "09d6f58d25d1734346e1050db08b143c1cd8e9e572dd0afb028bcad9eee6521a",
+    "<local>/.hermes/profiles/kepler/cache/scratch/timeseries-compare-v64-wt/experiments/timeseries_compare_20261110/report_optimized.py": "4a1e064c641b4c8cfc3c4dc68225ace94e58432cea7f0a671addba3271316a8a",
+    "<local>/.hermes/profiles/kepler/cache/scratch/timeseries-compare-v64-wt/experiments/timeseries_compare_20261110/panel_adapter.py": "6be79bc7a73c00a40e79432fff8d39835a5efb5264f1ee6a6571e590c4c5c1d7",
+    "<local>/.hermes/profiles/kepler/cache/scratch/timeseries-compare-v64-wt/experiments/timeseries_compare_20261110/panel_refs.py": "1326ae398bb073148f1942991d90f756901a47aa3fdc641da28cc4938d2b4cca"
+  },
+  "scientific_input_sha256": "58f983570ef2e0cf087826718aa31c3c97f165792473d01e517342c19e27c45e"
+}

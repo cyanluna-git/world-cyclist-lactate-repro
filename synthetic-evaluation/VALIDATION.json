@@ -1,0 +1,391 @@
+{
+  "manuscript_cells": [
+    {
+      "family": "clean",
+      "model": "HGB",
+      "arm": "BASE",
+      "source_mean": 0.562917353219352,
+      "manuscript": 0.5629,
+      "matches": true
+    },
+    {
+      "family": "clean",
+      "model": "HGB",
+      "arm": "RECOV10",
+      "source_mean": 0.8129490522199554,
+      "manuscript": 0.8129,
+      "matches": true
+    },
+    {
+      "family": "clean",
+      "model": "HGB",
+      "arm": "COPY10",
+      "source_mean": 0.5683953920125824,
+      "manuscript": 0.5684,
+      "matches": true
+    },
+    {
+      "family": "clean",
+      "model": "MLP",
+      "arm": "BASE",
+      "source_mean": 0.9375156011579433,
+      "manuscript": 0.9375,
+      "matches": true
+    },
+    {
+      "family": "clean",
+      "model": "MLP",
+      "arm": "RECOV10",
+      "source_mean": 1.575007938850115,
+      "manuscript": 1.575,
+      "matches": true
+    },
+    {
+      "family": "clean",
+      "model": "MLP",
+      "arm": "COPY10",
+      "source_mean": 1.2455273830216491,
+      "manuscript": 1.2455,
+      "matches": true
+    },
+    {
+      "family": "clean",
+      "model": "GRU",
+      "arm": "BASE",
+      "source_mean": 0.3253019942217675,
+      "manuscript": 0.3253,
+      "matches": true
+    },
+    {
+      "family": "clean",
+      "model": "GRU",
+      "arm": "RECOV10",
+      "source_mean": 0.21938730289277356,
+      "manuscript": 0.2194,
+      "matches": true
+    },
+    {
+      "family": "clean",
+      "model": "GRU",
+      "arm": "COPY10",
+      "source_mean": 0.43500522542140085,
+      "manuscript": 0.435,
+      "matches": true
+    },
+    {
+      "family": "clean",
+      "model": "TCN",
+      "arm": "BASE",
+      "source_mean": 0.45491138109218876,
+      "manuscript": 0.4549,
+      "matches": true
+    },
+    {
+      "family": "clean",
+      "model": "TCN",
+      "arm": "RECOV10",
+      "source_mean": 0.2746871513169501,
+      "manuscript": 0.2747,
+      "matches": true
+    },
+    {
+      "family": "clean",
+      "model": "TCN",
+      "arm": "COPY10",
+      "source_mean": 0.4006506663185734,
+      "manuscript": 0.4007,
+      "matches": true
+    },
+    {
+      "family": "mixed",
+      "model": "HGB",
+      "arm": "BASE",
+      "source_mean": 0.6406914938709433,
+      "manuscript": 0.6407,
+      "matches": true
+    },
+    {
+      "family": "mixed",
+      "model": "HGB",
+      "arm": "RECOV10",
+      "source_mean": 0.800107391748981,
+      "manuscript": 0.8001,
+      "matches": true
+    },
+    {
+      "family": "mixed",
+      "model": "HGB",
+      "arm": "COPY10",
+      "source_mean": 0.6443693644793245,
+      "manuscript": 0.6444,
+      "matches": true
+    },
+    {
+      "family": "mixed",
+      "model": "MLP",
+      "arm": "BASE",
+      "source_mean": 0.9961435237014968,
+      "manuscript": 0.9961,
+      "matches": true
+    },
+    {
+      "family": "mixed",
+      "model": "MLP",
+      "arm": "RECOV10",
+      "source_mean": 1.3824641375630633,
+      "manuscript": 1.3825,
+      "matches": true
+    },
+    {
+      "family": "mixed",
+      "model": "MLP",
+      "arm": "COPY10",
+      "source_mean": 1.1075002836882801,
+      "manuscript": 1.1075,
+      "matches": true
+    },
+    {
+      "family": "mixed",
+      "model": "GRU",
+      "arm": "BASE",
+      "source_mean": 0.4143631609364211,
+      "manuscript": 0.4144,
+      "matches": true
+    },
+    {
+      "family": "mixed",
+      "model": "GRU",
+      "arm": "RECOV10",
+      "source_mean": 0.27172391141007374,
+      "manuscript": 0.2717,
+      "matches": true
+    },
+    {
+      "family": "mixed",
+      "model": "GRU",
+      "arm": "COPY10",
+      "source_mean": 0.5254432051178013,
+      "manuscript": 0.5254,
+      "matches": true
+    },
+    {
+      "family": "mixed",
+      "model": "TCN",
+      "arm": "BASE",
+      "source_mean": 0.4700872477485911,
+      "manuscript": 0.4701,
+      "matches": true
+    },
+    {
+      "family": "mixed",
+      "model": "TCN",
+      "arm": "RECOV10",
+      "source_mean": 0.3035448231512259,
+      "manuscript": 0.3035,
+      "matches": true
+    },
+    {
+      "family": "mixed",
+      "model": "TCN",
+      "arm": "COPY10",
+      "source_mean": 0.44769969645298874,
+      "manuscript": 0.4477,
+      "matches": true
+    },
+    {
+      "family": "gas_gap",
+      "model": "HGB",
+      "arm": "BASE",
+      "source_mean": 0.5714710444436266,
+      "manuscript": 0.5715,
+      "matches": true
+    },
+    {
+      "family": "gas_gap",
+      "model": "HGB",
+      "arm": "RECOV10",
+      "source_mean": 0.8182322679988384,
+      "manuscript": 0.8182,
+      "matches": true
+    },
+    {
+      "family": "gas_gap",
+      "model": "HGB",
+      "arm": "COPY10",
+      "source_mean": 0.5778592794465202,
+      "manuscript": 0.5779,
+      "matches": true
+    },
+    {
+      "family": "gas_gap",
+      "model": "MLP",
+      "arm": "BASE",
+      "source_mean": 0.9426872026325545,
+      "manuscript": 0.9427,
+      "matches": true
+    },
+    {
+      "family": "gas_gap",
+      "model": "MLP",
+      "arm": "RECOV10",
+      "source_mean": 1.5901361979909974,
+      "manuscript": 1.5901,
+      "matches": true
+    },
+    {
+      "family": "gas_gap",
+      "model": "MLP",
+      "arm": "COPY10",
+      "source_mean": 1.2412243694297664,
+      "manuscript": 1.2412,
+      "matches": true
+    },
+    {
+      "family": "gas_gap",
+      "model": "GRU",
+      "arm": "BASE",
+      "source_mean": 0.3436388349420823,
+      "manuscript": 0.3436,
+      "matches": true
+    },
+    {
+      "family": "gas_gap",
+      "model": "GRU",
+      "arm": "RECOV10",
+      "source_mean": 0.23711878927886262,
+      "manuscript": 0.2371,
+      "matches": true
+    },
+    {
+      "family": "gas_gap",
+      "model": "GRU",
+      "arm": "COPY10",
+      "source_mean": 0.44992351378808343,
+      "manuscript": 0.4499,
+      "matches": true
+    },
+    {
+      "family": "gas_gap",
+      "model": "TCN",
+      "arm": "BASE",
+      "source_mean": 0.466149305134867,
+      "manuscript": 0.4661,
+      "matches": true
+    },
+    {
+      "family": "gas_gap",
+      "model": "TCN",
+      "arm": "RECOV10",
+      "source_mean": 0.2859576387496295,
+      "manuscript": 0.286,
+      "matches": true
+    },
+    {
+      "family": "gas_gap",
+      "model": "TCN",
+      "arm": "COPY10",
+      "source_mean": 0.41226973494486874,
+      "manuscript": 0.4123,
+      "matches": true
+    },
+    {
+      "family": "delayed",
+      "model": "HGB",
+      "arm": "BASE",
+      "source_mean": 0.761402952871666,
+      "manuscript": 0.7614,
+      "matches": true
+    },
+    {
+      "family": "delayed",
+      "model": "HGB",
+      "arm": "RECOV10",
+      "source_mean": 0.7712102154994458,
+      "manuscript": 0.7712,
+      "matches": true
+    },
+    {
+      "family": "delayed",
+      "model": "HGB",
+      "arm": "COPY10",
+      "source_mean": 0.7529844240460605,
+      "manuscript": 0.753,
+      "matches": true
+    },
+    {
+      "family": "delayed",
+      "model": "MLP",
+      "arm": "BASE",
+      "source_mean": 1.0580175423003568,
+      "manuscript": 1.058,
+      "matches": true
+    },
+    {
+      "family": "delayed",
+      "model": "MLP",
+      "arm": "RECOV10",
+      "source_mean": 1.197014175685,
+      "manuscript": 1.197,
+      "matches": true
+    },
+    {
+      "family": "delayed",
+      "model": "MLP",
+      "arm": "COPY10",
+      "source_mean": 1.1375672697827228,
+      "manuscript": 1.1376,
+      "matches": true
+    },
+    {
+      "family": "delayed",
+      "model": "GRU",
+      "arm": "BASE",
+      "source_mean": 0.6615989305062059,
+      "manuscript": 0.6616,
+      "matches": true
+    },
+    {
+      "family": "delayed",
+      "model": "GRU",
+      "arm": "RECOV10",
+      "source_mean": 0.4109421519849438,
+      "manuscript": 0.4109,
+      "matches": true
+    },
+    {
+      "family": "delayed",
+      "model": "GRU",
+      "arm": "COPY10",
+      "source_mean": 0.7800180624687759,
+      "manuscript": 0.78,
+      "matches": true
+    },
+    {
+      "family": "delayed",
+      "model": "TCN",
+      "arm": "BASE",
+      "source_mean": 0.568929616643934,
+      "manuscript": 0.5689,
+      "matches": true
+    },
+    {
+      "family": "delayed",
+      "model": "TCN",
+      "arm": "RECOV10",
+      "source_mean": 0.39551701533190226,
+      "manuscript": 0.3955,
+      "matches": true
+    },
+    {
+      "family": "delayed",
+      "model": "TCN",
+      "arm": "COPY10",
+      "source_mean": 0.5591049891705682,
+      "manuscript": 0.5591,
+      "matches": true
+    }
+  ],
+  "all_48_match": true,
+  "receipt_hashes_verified": true,
+  "checkpoint_hashes_match_prediction_receipts": true
+}

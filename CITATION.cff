@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use these artifacts, please cite them."
+title: "Synthetic evaluation artifacts and frozen models for cycling lactate-state estimation"
+version: v1.0.0
+authors:
+  - family-names: Park
+    given-names: Geunyun
+    affiliation: "aSSIST University, Seoul, Republic of Korea"
+  - family-names: Park
+    given-names: Youngdoo
+    affiliation: "Department of Biomedical Engineering, College of Medicine, Korea University, Seoul, Republic of Korea"
+license: CC-BY-4.0
+repository-code: "https://github.com/cyanluna-git/world-cyclist-lactate-repro"

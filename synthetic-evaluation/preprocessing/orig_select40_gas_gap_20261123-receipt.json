@@ -1,0 +1,16 @@
+{
+  "models_checked": 9,
+  "rows": 47176,
+  "current": 45496,
+  "strict": 19274,
+  "direct_historical_rowkey_fields": {
+    "HGB": [],
+    "MLP": []
+  },
+  "absent_rowkey_reference_is_not_verified": true,
+  "case_id": "orig_select40_gas_gap_20261123",
+  "current_fp": "824d993f769d7a952149c302455e1536ba201063dbbb83ff92a52295051809f0",
+  "strict_fp": "6ba81d281170dc1b08172e8f453c8f18e56325cd44c9bdcff4ed73acc3ed215e",
+  "cutoff_fp": "c104b63eca46e742bef717e225daa92e0e82a9e68f081aafc679aa76f008ffa9",
+  "weights_fp": "28dcb7b8019412e020aad24a509cba2afa3351acd4be82bb33c970c0cc7f3189"
+}

@@ -1,0 +1,16 @@
+{
+  "models_checked": 9,
+  "rows": 47176,
+  "current": 47176,
+  "strict": 47176,
+  "direct_historical_rowkey_fields": {
+    "HGB": [],
+    "MLP": []
+  },
+  "absent_rowkey_reference_is_not_verified": true,
+  "case_id": "orig_select40_clean_0",
+  "current_fp": "994b2523e28db139b7b899486f83c61f7338fc06cfb50e43762ec90be6a0d6cb",
+  "strict_fp": "994b2523e28db139b7b899486f83c61f7338fc06cfb50e43762ec90be6a0d6cb",
+  "cutoff_fp": "c104b63eca46e742bef717e225daa92e0e82a9e68f081aafc679aa76f008ffa9",
+  "weights_fp": "3153cfeedf5ccd02f036d2254e35c700c847e1fc6373886dd20a25173a74c111"
+}

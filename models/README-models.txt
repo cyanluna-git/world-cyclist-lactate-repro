@@ -1,0 +1,1 @@
+Frozen checkpoints used in the synthetic final evaluation (21 files). This archive alone does not provide the preprocessing or inputs needed for inference. Checkpoint SHA-256 values match the stored evaluation receipts. These models estimate a synthetic generator state, not clinical blood lactate. Only load serialized model files from a trusted source; joblib uses pickle.
